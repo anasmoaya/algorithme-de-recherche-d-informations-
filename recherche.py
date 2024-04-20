@@ -129,6 +129,6 @@ boolean_search_results = boolean_search(boolean_query, inverted_index)
 print(boolean_search_results)
 
 
-complex_query = "real madrid"
+complex_query = "covid-19 strategies"
 complex_search_results = complex_search(complex_query, inverted_index)
 print(complex_search_results)
